@@ -1,0 +1,56 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>OCEAN HAIR</title>
+<meta name="description" content="HAIR SALON, HONOLULU, HAIR CUT,ALAMOANA">
+<meta name="keywords" content="HAIR SALON, HONOLULU, HAIR CUT,ALAMOANA">
+<link rel="SHORTCUT ICON" href="indexver2/favicon.ico">
+<!-- Jquery-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<link rel="stylesheet" href="flexslider.css" type="text/css">
+<script src="jquery.js"></script>
+<script src="jquery.flexslider.js"></script>
+
+
+<script type="text/javascript" charset="utf-8">
+$(window).load(function() {
+$('.flexslider').flexslider();
+});
+</script>
+
+<style type="text/css">
+<!--
+.style1 {font-family: Arial, Helvetica, sans-serif}
+.style5 {font-size: small}
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #666666;
+	font-size: small;
+}
+a {
+	font-size: small;
+	color: #666666;
+}
+a:link {
+	text-decoration: none;
+	color: #666666;
+}
+a:visited {
+	text-decoration: none;
+	color: #666666;
+}
+a:hover {
+	text-decoration: none;
+	color: #FF9933;
+}
+a:active {
+	text-decoration: none;
+	color: #666666;
+}
+.style7 {font-size: small; font-family: "ヒラギノ丸ゴ Pro W4"; }
+.style9 {color: #666666}
+.style13 {font-size: x-small}
+.style14 {font-family: "ヒラギノ丸ゴ Pro W4"}
+-->
+</style>
+</head>
